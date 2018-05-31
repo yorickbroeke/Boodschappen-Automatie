@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1527669610 source:d:\documents\vilniaus kolegija\programming\boodschappen automatie\gebruikinput.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"definities.h"
+
+1527690525 source:d:\documents\vilniaus kolegija\programming\boodschappen automatie\lijstoutput.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"definities.h"
+
+1526569529 source:d:\documents\vilniaus kolegija\programming\boodschappen automatie\recepteninput.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1527687593 source:d:\documents\vilniaus kolegija\programming\boodschappen automatie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"definities.h"
+
+1527235546 source:d:\documents\vilniaus kolegija\programming\boodschappen automatie\algoritmes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definities.h"
+
+1527669161 d:\documents\vilniaus kolegija\programming\boodschappen automatie\definities.h
+	<time.h>
+

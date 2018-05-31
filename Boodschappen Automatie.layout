@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="receptenInput.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="algoritmes.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="930" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="definities.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="202" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lijstOutput.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4327" topLine="75" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+		</Folding>
+	</File>
+	<File name="gebruikInput.c" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17598" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="693" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="38" />
+			<Collapse line="41" />
+			<Collapse line="44" />
+			<Collapse line="47" />
+			<Collapse line="50" />
+			<Collapse line="53" />
+			<Collapse line="56" />
+			<Collapse line="59" />
+			<Collapse line="78" />
+			<Collapse line="81" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

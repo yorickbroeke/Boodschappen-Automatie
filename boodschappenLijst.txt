@@ -1,0 +1,9 @@
+5
+[x]	Apples , 10 (g/ml/amount), EST. EUR 3.65
+[x]	Milk , 500 (g/ml/amount), EST. EUR 1.99
+[]	Unions , 10 (g/ml/amount), EST. EUR 2.69
+[x]	Bread , 1 (g/ml/amount), EST. EUR 1.80
+[x]	Bananas , 6 (g/ml/amount), EST. EUR 2.50
+Expected total cost: EUR 12.63
+
+When the purchase is completed please enter a 'x' inside the box to confirm your purchase, then your file can be imported into the program to update the table.
